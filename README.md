@@ -4,7 +4,7 @@
  
  Weeks - 12
  
- <img src="" width="250">
+ <img src="Media/IMG-1114.jpg" width="250">
  
  # Week 1
  This week we will start the code

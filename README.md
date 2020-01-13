@@ -4,7 +4,7 @@
  
  Weeks - 8
  
- <img src="Media/Robot_Arm_Planning.png" width="250">
+ <img src="Media/Robot_Arm_Planning.png" width="350">
  
  # Week 1 (Jan 22 - 24)
 This week we will start the code. We will code the different servos to our intended purpose. We will set up 5 servos coding each one for the specific function we want.

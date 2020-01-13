@@ -2,7 +2,7 @@
 
 ### Planning
  
- Weeks - 12
+ Weeks - 8
  
  <img src="Media/IMG-1114.jpg" width="250">
  
@@ -16,6 +16,22 @@ Finish up the code and if everything goes well we could start the box near the e
 Design box and make sure all measurements are correct, create box in SolidWorks.
 
 # Week 4 (Feb 10 -14)
-Design Robot arm, find measurements and start CAD on Base and Claw portion of the Arm.
+Start on Claw portion, figure out measurements and implement into CAD.
 
 # Week 5 (Feb 17 - 21)
+Finish Claw, Motion Study analysis on it, start on Base and Gear System.
+
+# Week 6 (Feb 24 - 28)
+Finish Base and Box, Continue work on gear system and start measurements for Arm.
+
+# Week 7 (Mar 2 - 6)
+Implement Arm into CAD, hopefully finish it, and do Motion Study if Possible on Assembly.
+
+# Week 8 (Mar 9 - 13)
+Start 3D printing and Laser Cutting, Start Assembly.
+
+# Week 9 (Mar 16 - 20)
+Finish Assembly, Troubleshoot it.
+
+# Week 10 (Mar 23 - 27)
+Troubleshooting, and working on documentation.

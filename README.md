@@ -42,7 +42,7 @@ Troubleshooting, and working on documentation.
 
 We are using a claw design which many groups before us have used, I took a picture of one Dr. Shields made, and we are planning on having a design similar to that.
 
-<img src="Media/IMG-1135.jpg" width="400">   <img src="Media/ClawImage.png" width="400" height="300"> 
+<img src="Media/IMG-1135.jpg" width="400" height="400">   <img src="Media/ClawImage.png" width="400" height="400"> 
 
 ## Inspiration
 

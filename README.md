@@ -44,3 +44,7 @@ We are using a claw design which many groups before us have used, I took a pictu
 
 <img src="Media/IMG-1135.jpg" width="400">   <img src="Media/ClawImage.png" width="400"> 
 
+## Inspiration
+
+We are taking inspriation from Arleth & Eddy's Robot arm design with the base of their arm. We want a more gear based approach to it.
+

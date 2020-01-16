@@ -21,7 +21,7 @@ Design box and make sure all measurements are correct, create box in SolidWorks.
 Start on Claw portion, figure out measurements and implement into CAD.
 
 ### Week 5 (Feb 17 - 21)
-Finish Claw, Motion Study analysis on it, start on Base and Gear System.
+Finish Claw, Motion Study analysis on the claw, start on Base and Gear System.
 
 ### Week 6 (Feb 24 - 28)
 Finish Base and Box, Continue work on gear system and start measurements for Arm.

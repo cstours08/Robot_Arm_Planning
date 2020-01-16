@@ -27,7 +27,7 @@ Finish Claw, Motion Study analysis on it, start on Base and Gear System.
 Finish Base and Box, Continue work on gear system and start measurements for Arm.
 
 ### Week 7 (Mar 2 - 6)
-Implement Arm into CAD, hopefully finish it, and do Motion Study if Possible on Assembly.
+Implement Arm into CAD, hopefully finish it, and do Motion Study if Possible on Assembly and also do a stress analysis to verify that our design is sturdy.
 
 ### Week 8 (Mar 9 - 13)
 Start 3D printing and Laser Cutting, If all the pieces look good and are constructed correctly then we can Start the real life Assembly.

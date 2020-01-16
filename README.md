@@ -30,17 +30,17 @@ Finish Base and Box, Continue work on gear system and start measurements for Arm
 Implement Arm into CAD, hopefully finish it, and do Motion Study if Possible on Assembly.
 
 ### Week 8 (Mar 9 - 13)
-Start 3D printing and Laser Cutting, Start Assembly.
+Start 3D printing and Laser Cutting, If all the pieces look good and are constructed correctly then we can Start the real life Assembly.
 
 ### Week 9 (Mar 16 - 20)
-Finish Assembly, Troubleshoot it.
+Finish Assembly, Troubleshoot it. once we have the real life assembly we will adjust the code slightly and the angles that our servo will turn.
 
 ### Week 10 (Mar 23 - 27)
-Troubleshooting, and working on documentation.
+Troubleshooting, and working on documentation. 
 
 ## Claw Design
 
-We are using a claw design which many groups before us have used, I took a picture of one Dr. Shields made, and we are planning on having a design similar to that.
+We are using a claw design which many groups before us have used, I took a picture of one Dr. Shields made, and we are planning on having a design similar to that. The image on the right is a drawn design showing how we will try to construct ours. 
 
 <img src="Media/IMG-1135.jpg" width="400" height="400">   <img src="Media/ClawImage.png" width="400" height="400"> 
 

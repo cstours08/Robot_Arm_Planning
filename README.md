@@ -1,4 +1,4 @@
-# Robot_Arm
+# Robot_Arm Planning
 
 ### Planning
   
